@@ -1,5 +1,5 @@
 # Demand-Forecasting-using-LightGBM
-This repository replicates my work at CVS to forecast demand for promotional items and optimize inventory processes by replacing a legacy system with a machine learning-based forecasting engine. To ensure data privacy, I substituted the original CVS dataset with one from Kaggle and removed proprietary information.
+This repository replicates my work as a Senior Data Scientist at CVS to forecast demand for promotional items and optimize inventory processes by replacing a legacy system with a machine learning-based forecasting engine. To ensure data privacy, I substituted the original CVS dataset with one from Kaggle and removed proprietary information.
 
 
 <img width="1920" alt="Screenshot 2024-09-25 at 10 35 28 AM" src="https://github.com/user-attachments/assets/b9397804-f905-4d28-b1f4-d983784d5d76">
